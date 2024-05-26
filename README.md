@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 .
 
 ## My day-to-day work.
-As an app developer, I write and maintain code, collaborate with team members, debug issues, and ensure our applications run smoothly and efficiently.
+As an app developer, I write and maintain code, collaborate with team members, debug issues, and ensure our applications run smoothly.
 
 ## Outside of work.
-Going out for a cup of coffee or for some snack, meeting friends. When I have some free time, I take a bicycle and go for a ride, and spend an hour this really depends on my mood and energy levels.
+Going out for a cup of coffee or for some snack, meet friends. When I have some free time, I take a bicycle and go for a ride.
 
 ## I'm glad to respond
 You can message me here calechfs@gmail.com

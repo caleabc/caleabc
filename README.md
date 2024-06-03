@@ -14,17 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey there!
-.
+## About me
 
-.
+As an app developer, I write and maintain code, collaborate with team members, debug issues, and ensure applications run smoothly.
 
-## My day-to-day work.
-As an app developer, I write and maintain code, collaborate with team members, debug issues, and ensure our applications run smoothly.
+Outside of work, I go out for a cup of coffee or for some snack, meet friends. When I have some free time, I take a bicycle and go for a ride.
 
-## Outside of work.
-Going out for a cup of coffee or for some snack, meet friends. When I have some free time, I take a bicycle and go for a ride.
-
-## I'm glad to respond
-You can message me here calechfs@gmail.com
+I'm glad to respond, you can message me here calechfs@gmail.com
 

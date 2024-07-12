@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-As an app developer, I write and maintain code, collaborate with team members, debug issues, and ensure applications run smoothly. Outside of work, I go out for a cup of coffee or for some snack, meet friends. When I have some free time, I take a bicycle and go for a ride. I'm glad to respond, you can message me here calechfs@gmail.com
+As an app developer, I write and maintain code, collaborate with team members, debug issues, and ensure applications run smoothly. Outside of work, I go out for some snacks, meet friends. When I have some free time, I take a bicycle and go for a ride. I'm glad to respond, you can message me here calechfs@gmail.com
 
 .
 .
